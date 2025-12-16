@@ -11,7 +11,7 @@
 
 ## Introduction
 This is my personal note site, started when I entered university.<br>
-It contains code notes, major-related courses,  Fzu general courses, and various learning materials
+It contains code notes, major-related courses,  Fzu general courses, various learning materials and so on.
 > Hope this helps! If you find it useful, feel free to give it a star ⭐️.
 
 ## Star History
