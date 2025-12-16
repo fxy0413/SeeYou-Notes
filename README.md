@@ -9,19 +9,22 @@
 [![Static Badge](https://img.shields.io/badge/profile-show-green)](https://github.com/fxy0413)
 [![Static Badge](https://img.shields.io/badge/website-open-blue)](https://seeyou-fang.notion.site/)
 
-## Introduction
-This is my personal note site, started when I entered university.<br>
-It contains code notes, major-related courses,  Fzu general courses, various learning materials and so on.
+## 项目简介
+这是我的个人笔记网站，创建于我刚进入大学之时。<br>
+网站涵盖代码笔记、专业相关课程、福州大学通识课程以及各类学习资料等内容。
 
-## Motivation
-We look forward to more partners joining us in building **SeeYou-Notes**! This project aims to help everyone complete academic tasks more efficiently, delve deep into the fields of CV and LLM, and jointly promote the development of technology and learning applications.<br>
+## 博客
+后续会更新内容。
+
+## 项目初衷
+我们期待更多伙伴加入 SeeYou-Notes 的共建行列！本项目旨在助力大家更高效地完成课内学业任务，课外深耕计算机视觉（CV）与大语言模型（LLM）领域，共促 AI 时代发展。<br>
 <br>
-If you are interested in joining, please feel free to contact us via email.
+若你有意加入，欢迎通过邮箱与我联系。
 
-## Citation
->If this document is helpful to you, please click the Star ⭐ in the upper right corner of the page to support us. Thank you!<br>
+## 引用说明
+>若本项目对你有所帮助，烦请点击页面右上角的 Star ⭐ 予以支持！<br>
 
-If you reprint the content of this document, please indicate the source: https://github.com/fxy0413/SeeYou-Notes.
+如需转载本项目内容，请注明出处：https://github.com/fxy0413/SeeYou-Notes.
 
 ## Star History
 [![Star History Chart](https://api.star-history.com/svg?repos=fxy0413/SeeYou-Notes&type=date&legend=top-left)](https://www.star-history.com/#fxy0413/SeeYou-Notes&type=date&legend=top-left)
