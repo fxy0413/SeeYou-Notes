@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="Images.png"  alt="输入图片"> 
+<img src="Image.png"  alt="输入图片"> 
 
 </div>
 
